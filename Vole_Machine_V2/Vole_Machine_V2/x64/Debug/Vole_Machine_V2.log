@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\danya\source\repos\Vole_Machine_V2\Vole_Machine_V2\Register.h(34,88): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Vole_Machine_V2.vcxproj -> C:\Users\danya\source\repos\Vole_Machine_V2\x64\Debug\Vole_Machine_V2.exe
